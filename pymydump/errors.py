@@ -1,0 +1,3 @@
+
+class PyMyDumpError(Exception):
+    pass
