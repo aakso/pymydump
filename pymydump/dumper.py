@@ -5,7 +5,6 @@ import logging
 import os
 import subprocess
 import tempfile
-from configparser import ConfigParser
 from distutils.spawn import find_executable
 
 from pymydump.errors import PyMyDumpError
